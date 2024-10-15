@@ -31,7 +31,7 @@ What did you learn while building this project? What challenges did you face and
 | `api_key` | `string` | **Required**. Your API key | Test   |
 
 #### Get item
-
+ 
 ```http
   GET /api/items/${id}
 ```
