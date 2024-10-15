@@ -26,9 +26,9 @@ What did you learn while building this project? What challenges did you face and
   GET /api/items
 ```
 
-| Parameter | Type     | Description                |  Remark  |
-| :-------- | :------- | :------------------------- | :---------|
-| `api_key` | `string` | **Required**. Your API key |          |
+| Parameter | Type     | Description                | Remark |
+| :-------- | :------- | :------------------------- |:-------|
+| `api_key` | `string` | **Required**. Your API key | Test   |
 
 #### Get item
 
